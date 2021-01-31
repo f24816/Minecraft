@@ -39,7 +39,7 @@ Here is where we set community projects to encourage players to help each other,
 ​	If there are more people working on a project they have to write username and payment before they begin at Chief of Infrastructure. 
 ​	If they are more people and both want to work at a project the Chief of Infrastructure designates the people.
 
-![](https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3f/Block_of_Netherite_%28texture%29_JE1_BE1.png/revision/20201001120901/scale-to-width-down/120) **But how does RC gets it's value?**
+**But how does RC gets it's value?**
 
 ​	Taxes in the form of iron gold or diamonds etc. are taxed from every player for each day you are on the server.
 ​	The exchange NPC sets the value for RC, to get RC back to valuables we make a promise of 1 netherite for each 5000 RC.
